@@ -1,0 +1,1 @@
+# CPAT-and-the-R-nyi-Type-Statistic-End-of-Sample-Change-Point-Detection-in-R
